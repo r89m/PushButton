@@ -1,0 +1,14 @@
+{
+  "name": "PushButtons",
+  "keywords": "button",
+  "description": "Handle PushButtons, debounced using the Bounce2 library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r89m/arduino-button-pushbutton.git"
+  },
+  "version": "1.0.0",
+  "include": "*/*.[ch]*",
+  "examples": "*/examples/*/*.ino",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
