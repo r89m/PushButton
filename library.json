@@ -16,10 +16,16 @@
       "authors":[
         "Richard Miles"
       ]
+    },
+    {
+      "name": "Bounce2",
+      "authors":[
+        "Thomas O Fredericks"
+      ]
     }
-  ]
+  ],
   "include": "*/*.[ch]*",
-  "examples": "*/examples/*/*.ino",
+  "examples": "examples/*/*.ino",
   "frameworks": "arduino",
   "platforms": "*"
 }
