@@ -37,8 +37,8 @@ install:
       
   # Install Libraries
   - install_repo_as_library
-  - git clone https://github.com/r89m/Button.git
-  - git clone https://github.com/thomasfredericks/Bounce2.git
+  - install_repo_as_library https://github.com/r89m/Button.git
+  - install_repo_as_library https://github.com/thomasfredericks/Bounce2.git
   
 script:
   # Run tests
