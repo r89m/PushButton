@@ -1,5 +1,5 @@
 {
-  "name": "PushButtons",
+  "name": "PushButton",
   "keywords": "button",
   "description": "Handle PushButtons, debounced using the Bounce2 library",
   "authors": [
@@ -7,12 +7,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/r89m/arduino-button-pushbutton.git"
+    "url": "https://github.com/r89m/PushButton.git"
   },
   "version": "1.0.0",
   "dependencies":[
     {
-      "name": "Buttons",
+      "name": "Button",
       "authors":[
         "Richard Miles"
       ]

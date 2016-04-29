@@ -1,5 +1,5 @@
 #Arduino Push Button Library v1.0.0
-https://github.com/shaggythesheep/arduino-button
+https://github.com/shaggythesheep/PushButton
 
 Richard Miles April 2016
 
