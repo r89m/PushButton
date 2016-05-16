@@ -1,5 +1,5 @@
 {
-  "name": "PushButton",
+  "name": "r89m PushButton",
   "keywords": "button",
   "description": "Handle PushButtons, debounced using the Bounce2 library",
   "repository": {
@@ -9,7 +9,7 @@
   "version": "1.0.0",
   "dependencies":[
     {
-      "name": "Buttons",
+      "name": "r89m Buttons",
       "authors":[
         "Richard Miles"
       ]
