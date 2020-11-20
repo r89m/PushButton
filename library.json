@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/r89m/PushButton.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies":[
     {
       "name": "r89m Buttons",
